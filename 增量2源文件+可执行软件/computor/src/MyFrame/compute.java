@@ -9,7 +9,7 @@ import javax.swing.border.EmptyBorder;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+//C4上的第四个修改
 public class compute extends JFrame {
     JTextField jtf=null;
     JTextField jtjudge=null;
