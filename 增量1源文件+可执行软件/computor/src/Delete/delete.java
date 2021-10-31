@@ -1,5 +1,5 @@
 package Delete;
-
+//分支B2中修改了这里
 public class delete {
     /**
      * 删除给定字符串中等号后的字符串
